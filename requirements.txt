@@ -1,0 +1,9 @@
+jupyterlab
+pandas
+ydata-profiling
+matplotlib
+ipywidgets
+requests
+numpy
+scikit-learn
+kagglehub
